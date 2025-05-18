@@ -18,8 +18,8 @@ Este é um projeto de **calculadora simples**, desenvolvida com **React Native**
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/calculadora-react-native.git
-cd calculadora-react-native
+git clone https://github.com/weslainesantana/CalculadoraReactNative.git
+cd CalculadoraReactNative/calculadora
 ````
 
 2. Instale as dependências com Expo:
